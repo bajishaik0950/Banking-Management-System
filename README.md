@@ -84,7 +84,7 @@ Create the database in MySQL:
 
 ```sql
 
-CREATE DATABASE banking\_db;
+CREATE DATABASE banking_db;
 
 ```
 
